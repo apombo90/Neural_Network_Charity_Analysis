@@ -44,3 +44,7 @@ The purpose of this project is to use machine learning and neural networks to cr
 
 ![image](https://user-images.githubusercontent.com/91766276/157546269-891c30c6-6afa-46cf-ba8e-f2bf6dfff1f2.png)
 
+### Compiling, Training, and Evaluating the Model
+
+- 
+
